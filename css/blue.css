@@ -1,0 +1,76 @@
+.aside .logo a::before {
+    border-top: 3px solid #2196f3;
+    border-left: 3px solid #2196f3;
+}
+.logo a::after {
+    border-right: 3px solid #2196f3;
+    border-bottom: 3px solid #2196f3;
+}
+.nav li a:hover,
+body.dark .nav li a:hover,
+body.dark .nav li a.active ,
+.active,
+.about-text span,
+.service-item-inner .icon .ico3,
+body.dark .Portofolio-filter button.active,
+.Portofolio-filter button.active,
+.Portofolio-info .icon .ico4,
+.lightbox-controls .prev-item .ico5,
+.lightbox-controls .next-item .ico5,
+.blog-tags a,
+.ico6 {
+    color: #2196f3;
+}
+
+.about-text span{font-weight: 700;}
+
+
+.nav-toggler span,
+.nav-toggler span::before,
+.nav-toggler span::after,
+.social-links a,
+.section-title h2::before,
+.section-title h2::after,
+.btn,.progress .progress-in,
+.timeline-item::before,
+.circle-dot,
+.service-item-inner:hover .icon,
+.blog-date
+{
+    background-color: #2196f3;
+}
+
+.Portofolio-filter button.active {
+border-color:  #2196f3;    
+
+}
+
+.nav li a.active{
+    color: #2196f3;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
